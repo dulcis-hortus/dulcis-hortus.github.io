@@ -96,7 +96,7 @@ author:
   name             : "호터스(hortus)"
   avatar           : "/assets/images/walking.jpg"
   bio              : "여긴 놀라운 웹 사이트입니다. 사실, 제겐 모든 것이 놀라워요."
-  location         : "Space..."
+  location         : "Space."
   email            :
   links:
     - label: "Email"
