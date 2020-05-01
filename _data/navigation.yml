@@ -5,9 +5,9 @@ main:
   - title: "About"
     url: /about/
   - title: "Categories"
-    url: /catagory-archice/
+    url: /categories/
   - title: "Tags"
-    url: /tag-archive/
+    url: /tags/
 
 
 
