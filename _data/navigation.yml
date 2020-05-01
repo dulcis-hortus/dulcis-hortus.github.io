@@ -4,6 +4,10 @@ main:
     url: https://dulcis-hortus.github.io/
   - title: "About"
     url: /about/
+  - title: "Categories"
+    url: /catagories/
+  - title: "Tags"
+    url: /tags/
 
 
 
