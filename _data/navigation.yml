@@ -1,15 +1,15 @@
 # main links
 main:
-  - title: "블로그"
+  - title: "블로그 방문"
     url: https://dulcis-hortus.github.io/
   - title: "토이 프로젝트"
     url: /categories/토이프로젝트/
-  - title: "About"
-    url: /about/
   - title: "Categories"
     url: /categories/
   - title: "Tags"
     url: /tags/
+  - title: "About"
+    url: /about/
 
 
 
