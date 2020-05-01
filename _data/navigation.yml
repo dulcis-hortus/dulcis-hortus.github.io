@@ -1,13 +1,13 @@
 # main links
 main:
-  - title: "블로그 방문하기"
+  - title: "블로그"
     url: https://dulcis-hortus.github.io/
   - title: "About"
     url: /about/
   - title: "Categories"
-    url: /catagories/
+    url: /catagory-archice/
   - title: "Tags"
-    url: /tags/
+    url: /tag-archive/
 
 
 
