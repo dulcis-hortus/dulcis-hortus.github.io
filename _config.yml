@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "비몽사몽 간에 INFP 개발자"
+title                    : "비몽사몽간에 INFP 개발자"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "호터스(hortus)"
-description              : "An amazing website... In fact, EVERYTHING is amazing for me."
+description              : "An amazing website... In fact, EVERYTHING is amazing to me."
 url                      : "https://dulcis-hortus.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -96,7 +96,7 @@ author:
   name             : "호터스(hortus)"
   avatar           : "/assets/images/walking.jpg"
   bio              : "여긴 놀라운 웹 사이트입니다. 사실, 제겐 모든 것이 놀라워요."
-  location         : "Space."
+  location         : "Seoul"
   email            :
   links:
     - label: "Email"
