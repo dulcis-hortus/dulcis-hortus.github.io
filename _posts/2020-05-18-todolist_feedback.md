@@ -8,6 +8,7 @@ tags:
     - DOM
     - javascript
     - 클론코딩
+    - todolist
     - 피드백
 ---
 ### 1. 작업 기간  
