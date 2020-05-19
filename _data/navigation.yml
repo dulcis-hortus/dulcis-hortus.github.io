@@ -4,14 +4,15 @@ main:
     url: https://dulcis-hortus.github.io/
   - title: "토이 프로젝트"
     url: /categories/토이프로젝트/
+  - title: "UI/UX"
+    url: /categories/UIUX/
   - title: "Categories"
     url: /categories/
   - title: "Tags"
     url: /tags/
   - title: "About"
     url: /about/
-  - title: "UI/UX"
-    url: /categories/uiux/
+
 
 
 
