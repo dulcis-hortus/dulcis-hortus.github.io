@@ -6,4 +6,4 @@ taxonomy: UIUX
 author_profile: true
 ---
 
-UI/UX 스터디 기록(20.05.19~)
+웹 기획자 친구와 UI/UX 2인 스터디 기록(20.05.19~)

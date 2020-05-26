@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "정신 차린 INFP 개발자"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "호터스(hortus)"
+name                     : "호터스(Hortus)"
 description              : "An amazing website... In fact, EVERYTHING is amazing to me."
 url                      : "https://dulcis-hortus.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
