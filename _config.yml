@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "정신 차린 INFP 개발자"
+title                    : "완벽이 아닌, 더 나은 완성을 향해서"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "호터스(Hortus)"
