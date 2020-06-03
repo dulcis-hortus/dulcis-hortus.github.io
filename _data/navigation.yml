@@ -4,6 +4,8 @@ main:
   #   url: https://dulcis-hortus.github.io/
   - title: "토이 프로젝트"
     url: /categories/토이프로젝트/
+  - title: "WIT?"
+    url: /categories/wit/
   - title: "UI/UX"
     url: /categories/UIUX/
   # - title: "Categories"
