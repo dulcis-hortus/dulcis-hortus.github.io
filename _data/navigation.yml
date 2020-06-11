@@ -6,6 +6,8 @@ main:
     url: /categories/토이프로젝트/
   # - title: "UI/UX"
   #   url: /categories/UIUX/
+  - title: "TIL"
+    url: /about/TIL
   - title: "WIT?"
     url: /categories/wit/
   # - title: "Categories"
@@ -14,6 +16,7 @@ main:
     url: /tags/
   - title: "소개글"
     url: /about/
+
 
 
 
