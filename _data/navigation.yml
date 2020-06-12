@@ -7,7 +7,7 @@ main:
   # - title: "UI/UX"
   #   url: /categories/UIUX/
   - title: "TIL"
-    url: /about/TIL
+    url: /categories/TIL
   - title: "WIT?"
     url: /categories/wit/
   # - title: "Categories"
