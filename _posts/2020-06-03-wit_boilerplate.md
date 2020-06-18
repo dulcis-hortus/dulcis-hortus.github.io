@@ -4,7 +4,7 @@ title: 보일러 플레이트(boilerplate)
 excerpt: "반복적으로 자주 쓰이면서, 변형은 거의 없는 코드 또는 모듈을 의미한다."
 
 categories:
-    - wit
+    - WIT
 
 tags: 
     - 용어정리
