@@ -1,5 +1,5 @@
 ---
-title: '한솔 홈데코' 홈페이지 클론 코딩- Intro
+title: 한솔 홈데코 홈페이지 클론 코딩- Intro
 excerpt: "웹 사이트 하나를 통째로 클론 코딩함으로써 html과 css를 깊이 있게 익히기"
 
 categories: 
