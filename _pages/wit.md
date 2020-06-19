@@ -1,8 +1,8 @@
 ---
 title: "WIT?"
-permalink: /categories/wit/
+permalink: /categories/WIT/
 layout: category
-taxonomy: wit
+taxonomy: WIT
 author_profile: true
 ---
 
